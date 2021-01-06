@@ -15,7 +15,7 @@
   ## Create docker container for MongoDB
       - sudo docker run --name <database name> -p 27017:27017 -d -t mongo 
   ## Run container
-      - sudo docker start <id do container>
+      - sudo docker start <container id>
 
 # User Routes
   **User Register** - http://localhost:3333/auth/register </br>
