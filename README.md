@@ -4,7 +4,7 @@
   - NodeJs
   - express
   - MongoDB
-  - Autenticação JWT
+  - JsonWebTokens
   - REST API
   - Docker Container
   - middlewares
