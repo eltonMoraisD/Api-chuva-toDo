@@ -26,5 +26,5 @@
 # ToDO Routes
   **Create  ToDo** - http://localhost:3333/user/create-todos</br>
   **Update ToDo** - http://localhost:3333/user/update-todo/id</br>
-  **Delete ToDo** - http://localhost:3333/user/delete-todo</br>
-  **List ToDo** - http://localhost:3333/user/todos</br>
+  **Delete ToDo** - http://localhost:3333/user/delete-todo/id</br>
+  **List ToDos** - http://localhost:3333/user/todos</br>
