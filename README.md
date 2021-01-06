@@ -1,5 +1,14 @@
 # API Chuva - ToDo List
 
+## technologies used
+  - NodeJs
+  - express
+  - MongoDB
+  - Autenticação JWT
+  - REST API
+  - Docker Container
+  - middlewares
+
 # Initial Config
   ## Install dependencies
       - run command **yarn** or **npm install**
