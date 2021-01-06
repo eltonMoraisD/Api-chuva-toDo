@@ -1,6 +1,6 @@
 # API Chuva - ToDo List
 
-## technologies used
+## Technologies used
   - NodeJs
   - express
   - MongoDB
