@@ -10,7 +10,7 @@
   - middlewares
 
 # Initial Config
-  ## Install dependencies
+  ## Install all dependencies
       - run command **yarn** or **npm install**
   ## Create docker container for MongoDB
       - sudo docker run --name <database name> -p 27017:27017 -d -t mongo 
