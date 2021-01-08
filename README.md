@@ -30,5 +30,5 @@
   **List ToDos** - http://localhost:3333/user/todos</br>
   
   
-# Link for mobile app
+# Link for mobile app repository 
   - https://github.com/eltonMoraisD/mobile-chuva-Todo
